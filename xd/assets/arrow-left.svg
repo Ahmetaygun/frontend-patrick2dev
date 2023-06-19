@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 28" width="16" height="28">
+	<title>Landing</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-953-845h1920v5365h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Landing" clip-path="url(#cp1)">
+		<g id="First Section">
+			<g id="Group 1">
+				<g id="-e-arrow-left">
+					<path id="Path 1" class="s0" d="m0.3 18.3c0.2-0.2 0.5-0.3 0.8-0.3 0.3 0 0.6 0.1 0.8 0.3l6 6 5.9-6c0.5-0.4 1.2-0.4 1.6 0 0.5 0.5 0.5 1.2 0 1.6l-6.7 6.8c-0.2 0.2-0.5 0.3-0.8 0.3-0.3 0-0.6-0.1-0.8-0.3l-6.8-6.8c-0.2-0.2-0.3-0.5-0.3-0.8 0-0.3 0.1-0.6 0.3-0.8z"/>
+					<path id="Path 2" class="s0" d="m7.9 25.9c-0.6 0-1.1-0.5-1.1-1.2v-23.6c0-0.6 0.5-1.1 1.1-1.1 0.6 0 1.1 0.5 1.1 1.1v23.6c0 0.7-0.5 1.2-1.1 1.2z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

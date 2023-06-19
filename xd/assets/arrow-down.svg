@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 12" width="18" height="12">
+	<title>Landing</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-887-3585h1920v5365h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { opacity: .6;fill: #3e3d3d } 
+	</style>
+	<g id="Landing" clip-path="url(#cp1)">
+		<g id="Blog">
+			<g id="Article">
+				<g id="Read more">
+					<g id="-e-arrow-down">
+						<path id="Path 3" class="s0" d="m11.4 11q-0.2-0.2-0.2-0.6 0-0.3 0.2-0.5l4.1-4-4.1-4.1c-0.3-0.3-0.3-0.8 0-1.1 0.3-0.3 0.8-0.3 1.1 0l4.6 4.6q0.2 0.2 0.2 0.6 0 0.3-0.2 0.5l-4.6 4.6q-0.2 0.2-0.5 0.2-0.3 0-0.6-0.2z"/>
+						<path id="Path 4" class="s0" d="m0.5 5.9c0-0.5 0.3-0.8 0.8-0.8h13.7c0.4 0 0.8 0.3 0.8 0.8 0 0.4-0.4 0.7-0.8 0.7h-13.7c-0.5 0-0.8-0.3-0.8-0.7z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

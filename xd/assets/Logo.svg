@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227 47" width="227" height="47">
+	<title>Landing</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-102-53h1920v5365h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 60px;fill: #333232;font-weight: bold;font-family: "Kollektif" } 
+	</style>
+	<g id="Landing" clip-path="url(#cp1)">
+		<g id="First Section">
+			<g id="Header">
+				<g id="-e-Logo">
+					<text id="Eklenti" style="transform: matrix(1,0,0,1,-2,46)" >
+						<tspan x="0" y="0" class="t0">eklenti
+</tspan>
+					</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

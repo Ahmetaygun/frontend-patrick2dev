@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 24" width="31" height="24">
+	<title>Landing</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1491-4430h1920v5365h-1920z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f8f8f8 } 
+	</style>
+	<g id="Landing" clip-path="url(#cp1)">
+		<g id="Contact">
+			<g id="Context Box">
+				<g id="Icon">
+					<path id="-e-email-line" fill-rule="evenodd" class="s0" d="m31 2.9v18.7c0 1.1-0.8 1.9-1.9 1.9h-26.2c-1.1 0-1.9-0.8-1.9-1.9v-18.7c0-1.1 0.8-1.9 1.9-1.9h26.2c1.1 0 1.9 0.8 1.9 1.9zm-10.1 11.9l1.3-1.3 6.9 6.9v-16.4l-11.9 11.9c-0.8 0.7-1.9 0.7-2.7 0l-11.6-11.6v16.2l6.7-7 1.4 1.3-6.6 6.8h23.3zm-5.1-0.2l11.8-11.7h-23.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
